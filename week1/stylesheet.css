@@ -1,0 +1,10 @@
+body{background-color: beige;}
+header{text-align: center;
+font-size: larger;}
+img{border-radius: 200px;}
+#profile, #education, #skills, #certificate, #interests{margin: 30px;
+padding: 60px;
+background-color:azure;
+border-radius: 30px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.degree_titles{font-weight: bold;}
